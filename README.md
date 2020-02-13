@@ -20,6 +20,6 @@ Follow Apple SwiftUI tutorial.Completed this work on February 10, 2020 and Use t
 ## Watch OS
 
 <p align="center">
-<img src="phone1.png"/>
-<img src="phone2.png"/>
+<img src="watch1.png"/>
+<img src="watch2.png"/>
 <p>
